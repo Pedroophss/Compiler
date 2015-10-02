@@ -1,0 +1,21 @@
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.dll
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.pdb
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.dll
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.pdb
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.dll
+C:\Users\psantos\Documents\Visual Studio 2013\Projects\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.pdb
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.dll
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.pdb
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.dll
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.pdb
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.dll
+C:\Users\31223488\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.pdb
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.dll
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\TesteAnalisadorLexico.pdb
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.dll
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\bin\Debug\AnalisadorLexico.pdb
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.dll
+C:\Users\psantos\Desktop\AnalisadorLexico\TesteAnalisadorLexico\obj\Debug\TesteAnalisadorLexico.pdb
